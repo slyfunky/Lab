@@ -59,4 +59,4 @@ TEXT
 $font┌──────────────┐
 $font│ Meteorologia ├───────●
 $font├──────────────┘
-$font ${exec java Clima}
+$font${exec java Clima}
