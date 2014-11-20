@@ -54,7 +54,6 @@ use_spacer none
 #temperature_unit celsius
 #temperature_unit fahrenheit
 
-
 TEXT
 $font┌──────────────┐
 $font│ Meteorologia ├───────●
