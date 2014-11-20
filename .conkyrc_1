@@ -122,3 +122,4 @@ ${alignr}$font ${color1}[${color} ${upspeed eth0} kb/s ${color1}]${color}   up -
 ${alignr}$font ${color1} ${upspeedgraph eth0 8,120 33FF66} ${color} -─┘    │       
 ${alignr}$font ${color1}[${color} ${downspeed eth0} kb/s ${color1}]${color} down -─┘       
 ${alignr}$font ${color1} ${downspeedgraph eth0 8,120 33FF66} ${color} -─┘            
+
